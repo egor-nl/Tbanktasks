@@ -1,0 +1,3 @@
+<#if (card == "Black" || card == "Platinum") && eligible?boolean == true>
+Вам доступен бонус
+</#if>
